@@ -1,1 +1,0 @@
-SELECT REPLACE(title, 'The', '***') FROM BOOKS WHERE title LIKE 'The%'
